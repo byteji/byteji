@@ -25,17 +25,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,redux,laravel,kotlin,nodejs,java,c,php,bootstrap,materialui,mysql,firebase,express,pr,ps,ai,figma,xd,postman,docker)](https://skillicons.dev)
 
-## ⭐ Demo
-> "Graduation Project"
-https://cexdemo.com
+## ⭐ Demo Graduation Project 
+> https://cexdemo.com
 
 ## ⭐ Quotes 
 > "Don't do anything you'll regret later"
-
+>
 > "Success doesn't have to be requested, but to continue with diligence"
 
 ## 💬 My weakness as a dev
--  communication english (I will try to communicate as much as I can and continue to improve 
+-  communication english (I will try to communicate as much as I can and continue to improve)
 <!--
 **byteji/bytenaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
