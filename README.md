@@ -26,7 +26,9 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,react,redux,laravel,kotlin,nodejs,java,c,php,bootstrap,materialui,mysql,firebase,express,pr,ps,ai,figma,xd,postman,docker)](https://skillicons.dev)
 
 ## ⭐ Demo Graduation Project 
-> https://cexdemo.com
+> https://cexdemo.com  (ask how to use)
+> 
+>P.S. The demo doesn't include register condition  You can try using it. You can use any email.
 
 ## ⭐ Quotes 
 > "Don't do anything you'll regret later"
