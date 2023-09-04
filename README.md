@@ -28,7 +28,8 @@
 ## ⭐ Demo Graduation Project 
 > https://cexdemo.com  (ask how to use)
 > 
->P.S. The demo doesn't include register condition  You can try using it. You can use any email.
+> P.S. The demo doesn't include register condition  You can try using it. You can use any email.
+> ปล. ตัวโปรเจคเรียนจบไม่ได้ใส่เงื่อนไขในการลงทะเบียน ใช้งานเพื่อความสะดวกสำหรับทดลองเล่นเดโม่ สามารถเข้าไปเล่นได้ มีปัญหาตรงไหนติดต่อมาหาฉัน
 
 ## ⭐ Quotes 
 > "Don't do anything you'll regret later"
